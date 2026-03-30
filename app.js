@@ -8,8 +8,8 @@ const TG_BOT_TOKEN = process.env.TG_BOT_TOKEN || '';
 const ACCOUNTS = process.env.ACCOUNTS || `
 [
     {
-        "username": "", 
-        "password": ""  
+        "username": "lichen60607288@gmail.com", 
+        "password": "Hj881020"  
     }
 ]`; // 双引号内填写你的邮箱和密码 
 
